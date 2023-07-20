@@ -9,6 +9,7 @@ import org.junit.Test;
 //22028492 Kendrick
 //22013820 Shwetha
 //22003342 Khin Bhone Pyae
+//22026533 Priya
 
 public class ResourceCentreTest {
 	private Camcorder cc1;
