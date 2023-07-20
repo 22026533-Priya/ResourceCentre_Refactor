@@ -147,7 +147,7 @@ public class ResourceCentre {
 		for (int i = 0; i < camcorderList.size(); i++) {
 
 			String str = camcorderList.get(i).toString();
-			output += String.format(" %-84s\n", str);
+			output += String.format("%-84s\n", str);
 		}
 		return output;
 	}
